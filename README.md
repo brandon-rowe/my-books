@@ -1,6 +1,5 @@
 # my-books
-digital backups of my programming books
-feel free to download or contribute
+Digital backups of my programming books, feel free to download or contribute.
 
 <h3>WebDev</h3>
 <h5>Front-end Web Development Books</h5>
