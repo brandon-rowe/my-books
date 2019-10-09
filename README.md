@@ -12,7 +12,7 @@ Digital backups of my programming books, feel free to download or contribute.
 
 <h3>Algorithms</h3>
 <ul>
-	<li>Algorithms to live by</li>
+	<li>Algorithms To Live By</li>
 	<li>Data Structures & Algorithms - Java</li>
 </ul>
 
