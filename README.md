@@ -1,39 +1,50 @@
 # my-books
 Digital backups of my programming books, feel free to download or contribute.
 
-<h3>WebDev</h3>
-<h5>Front-end Web Development Books</h5>
-<ul>
-	<li>HTML & CSS</li>
-	<li>JavaScript</li>
-	<li>Web Designer Mag</li>
-	<li>RESTful APIs - Golang</li>
-</ul>
+**Algorithms**
+- Algorithms to Live By - The Computer Science of Human Decisions (epub)
+- Data Structures & Algorithms - Java (pdf)
 
-<h3>Algorithms</h3>
-<ul>
-	<li>Algorithms to live by</li>
-	<li>Data Structures & Algorithms - Java</li>
-</ul>
+**Bitcoin**
+- Mastering Bitcoin - Programming the Open Blockchain (epub)
 
-<h3>MachineLearning</h3>
-<h5>AI, Deep Learning, Computer Vision, Neural Networking, etc.</h5>
-<ul>
-	<li>Machine Learning with Golang</li>
-	<li>Neural Network Programming - Java</li>
-</ul>
+**Blockchain**
+- Blockchain Basics - A Non-Technical Introduction (pdf)
 
-<h3>Interview</h3>
-<h5>Interview Prep</h5>
-<ul>
-	<li>The Google Resume</li>
-	<li>Cracking the Coding Interview</li>
-</ul>
+**Hacking**
+- CypherPunks (azw3, epub, mobi, pdf)
+- Network Hacking Computer Security (azw3, epub, mobi, pdf)
+- Kevin Mitnick
+	+ Ghost in the Wires (epub, pdf)
+	+ The Art of Deception (pdf)
+	+ The Art of Intrusion (pdf)
+- The Web Application Hacker's Handbook (pdf)
+- Hacking - Basic Security, Penetration Testing (pdf)
+- Hacking - Become a World Class Hacker (pdf)
+- Hacking - Firewalls and Networks (pdf)
+- Hacking Exposed  (epub)
+- Hacking for Beginners (pdf)
+- Hacking The Art of Exploitation (pdf)
+- Julian Assange - Cypherpunks (pdf)
+- Web Hacking 101 (pdf)
+- Project Syntax - Python Hacking (epub)
+- The Complete Cyber Security Course (pdf)
+- The Hacker's Underground Handbook (pdf)
+- Wifi Hacking for Beginners (pdf)
+- Wireless Hacking (pdf)
 
-<h3>Misc</h3>
-<h5>Different programming books</h5>
-<ul>
-	<li>Blockchain Basics</li>
-	<li>Project Syntax - Python Hacking</li>
-	<li>Software Engineering</li>
-</ul>
+**Interview**
+- The Google Resume (pdf)
+- Cracking the Coding Interview (pdf)
+
+**Machine Learning**
+- Machine Learning with Golang (pdf)
+- Neural Network Programming - Java (pdf)
+
+**WebDev**
+
+Front-end Web Development Books & Magazines
+- Web Designer Mag (pdf)
+- HTML & CSS (pdf)
+- Head First JavaScript (epub)
+- JavaScript and JQuery (pdf)
